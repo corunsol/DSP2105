@@ -21,7 +21,7 @@ The Homework Assignments and Sample Solutions to be placed here.
 | Wk4  | 6.6~6.12  | Part 4               | Analyze A/B Test Results | 2021.6.7   | 2021.6.21 |
 | Wk5  | 6.13~6.19 | Part 5, Part 6       | Explore & Summarize Data | 2021.6.14  | Cancelled |
 | Wk6  | 6.20~6.26 | Part 7               | Wrangle and Analyze Data | 2021.6.25  | 2021.7.5  |
-| Wk7  | 6.27~7.3  | Part 8               | Create a Tableau Story   | 2021.7.1   | 2021.7.12 |
+| Wk7  | 6.27~7.3  | Part 8               | Create a Tableau Story   | 2021.7.6   | 2021.7.15 |
 | Wk8  | 7.4~7.10  | Part 9, lesson 1~5   | N/A                      |            |           |
 | Wk9  | 7.11~7.17 | Part 9, lesson 6~10  | N/A                      |            |           |
 | Wk10 | 7.18~7.24 | Part 9, lesson 11~16 | N/A                      |            |           |
