@@ -12,3 +12,7 @@ Modified and tuned by Marcus
 4. Please pull "**Udacity-Intro-to-Machine-Learning-dsp2105-solutions.zip**" down to your desktop to try out.
 5. Once you unzip the file, it's gonna be around 154MB.
 
+
+## ## Pre-requisites
+
+Once you unzip all of the files to your local drive, you have to go to "tools" sub-folder to run "startup.py" to download the Enron dataset, which is 422MB to the parent folder of "tools". Be prepared some time for downloading.
